@@ -48,7 +48,7 @@ const About = () => {
                   </div>
                   <div className="mt-4">
                     <span className="text-[#ff004f] text-base">
-                      March 2023 - Present
+                      February 2023 - Present
                     </span>
                     <br />
                     Front End Intern @Onhova
