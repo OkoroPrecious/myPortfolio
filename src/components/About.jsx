@@ -41,14 +41,24 @@ const About = () => {
 									</div> */}
                   <div className="mt-4">
                     <span className="text-[#ff004f] text-base">
-                      March 2022 - March 2023
+                      March 2022 - December 2022
                     </span>
                     <br />
                     Software Engineer Trainee @Semicolon Africa
                   </div>
                   <div className="mt-4">
                     <span className="text-[#ff004f] text-base">
-                      February 2023 - Present
+                    January 2023 - Present
+                    </span>
+                    <br />
+                    Front End Intern @Onhova
+                  </div>
+                  <br />
+                  <div className="mt-4">
+                    <span className="text-[#ff004f] text-base">
+                    EDUCATION:
+                    2021: B.Sc. Second Class Science Laboratory Technology, Delta State University.
+                    2022: Certificate of National Youth Service Corps, Nigeria
                     </span>
                     <br />
                     Front End Intern @Onhova
